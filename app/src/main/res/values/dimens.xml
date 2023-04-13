@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titulo">140dp</dimen>
+    <dimen name="distan">35dp</dimen>
+    <dimen name="distancia_resultado" />
+    <dimen name="distancia_Res">45</dimen>
+    <dimen name="distancia_R">45dp</dimen>
+    <dimen name="titulor_distancia">170dp</dimen>
+    <dimen name="respuestas_D">60dp</dimen>
+</resources>
